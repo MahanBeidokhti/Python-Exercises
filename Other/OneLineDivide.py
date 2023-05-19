@@ -1,0 +1,1 @@
+print(int(input("che adadi ro taghsim konam? : ")) %int(input("baghi mandash az che adadi ro mikhai ? : ")))
